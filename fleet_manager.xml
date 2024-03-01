@@ -1,0 +1,54 @@
+<!--A XML File to Store the Train Details for the Fleet Manager project-->
+
+<FleetManager>
+    <Train>
+        <trainNumber>10001</trainNumber>
+        <source>Bangalore</source>
+        <destination>Mysore</destination>
+    </Train>
+    <Train>
+        <trainNumber>10002</trainNumber>
+        <source>Bangalore</source>
+        <destination>Chennai</destination>
+    </Train>
+    <Train>
+        <trainNumber>10003</trainNumber>
+        <source>Bangalore</source>
+        <destination>Hyderabad</destination>
+    </Train>
+    <Train>
+        <trainNumber>10004</trainNumber>
+        <source>Bangalore</source>
+        <destination>New Delhi</destination>
+    </Train>
+    <Train>
+        <trainNumber>10005</trainNumber>
+        <source>Allahabad</source>
+        <destination>Mysore</destination>
+    </Train>
+    <Train>
+        <trainNumber>10006</trainNumber>
+        <source>New Delhi</source>
+        <destination>Bangalore</destination>
+    </Train>
+    <Train>
+        <trainNumber>10007</trainNumber>
+        <source>Hyderabad</source>
+        <destination>Chennai</destination>
+    </Train>
+    <Train>
+        <trainNumber>10008</trainNumber>
+        <source>New Delhi</source>
+        <destination>Mysore</destination>
+    </Train>
+    <Train>
+        <trainNumber>10009</trainNumber>
+        <source>Allahabad</source>
+        <destination>Pune</destination>
+    </Train>
+    <Train>
+        <trainNumber>10010</trainNumber>
+        <source>Hyderabad</source>
+        <destination>Bangalore</destination>
+    </Train>
+</FleetManager>
